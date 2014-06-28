@@ -1,0 +1,6 @@
+# twt
+
+> Very simple twitter script, to post on behalf of your twitter account just by getting an update.
+
+## Contributing
+This is my first try on bash script, if you can change the whole thing and make sure it is still working, any pull request would be great!

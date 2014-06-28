@@ -1,5 +1,6 @@
 #!/bin/bash
-# I'm a little noobie in bash, Improve this script.
+
+# Set url here, result should be in csv format.
 url="http://payment.zconf.ir?now=1";
 
 # Sample: text="bla bla bla bla bla %s bla bla lba";
